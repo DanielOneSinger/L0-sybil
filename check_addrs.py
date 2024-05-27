@@ -8,17 +8,17 @@ from concurrent.futures import ThreadPoolExecutor, wait, ALL_COMPLETED, FIRST_CO
 
 # 替换为你的API密钥
 API_KEYS = {
-    'ethereum': '2VQG8WZ51WTDHP8PAMIK7PIJI8CBRYIQ2C',
-    'bsc': 'RFCSK8XXZS2XJVFDMURFQ5XM6SYTTSZXQC',
-    #'avalanche': 'your_avaxscan_api_key',
-    'polygon': 'UMEJFSRUIGZ88YVXW3V3JBTU8545VB9A8Q',
-    'arbitrum': 'P6Y821ZG334FU3VGZXRJPDJQVKWZIGM62N',
-    'optimism': 'AT9MIY9XMB5FUSY188S1P28ERZE5P3TEG8',
-    'base': '4Q233M1B6CFJ9U1JEMCRDV3IMUYVEI756U',
-    'ftm': 'RXPWTWTA63GVGH27RCCINDJ3CMTPT8IRZQ',
-    #'celo': 'your_celoscan_api_key',
-    'gnosis': 'UMEJFSRUIGZ88YVXW3V3JBTU8545VB9A8Q',
-    'zksync': 'your_zksyncscan_api_key'
+    'ethereum': '',
+    'bsc': '',
+    #'avalanche': '',
+    'polygon': '',
+    'arbitrum': '',
+    'optimism': '',
+    'base': '',
+    'ftm': '',
+    #'celo': '',
+    'gnosis': '',
+    'zksync': ''
 }
 
 API_URLS = {
